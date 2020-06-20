@@ -1,0 +1,105 @@
+2020-06-20 00:00:30.529 HKT [6700] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:00:36.281 HKT [9816] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:00:50.482 HKT [7688] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:05:08.373 HKT [10640] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:05:21.236 HKT [6468] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:05:35.981 HKT [8924] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:12:20.219 HKT [8640] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:12:24.510 HKT [4528] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:12:40.030 HKT [4624] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:23:37.401 HKT [11092] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:24:03.994 HKT [3276] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:24:09.942 HKT [5404] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:49:53.992 HKT [7388] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 00:51:28.042 HKT [6184] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 03:06:02.514 HKT [4720] ��������:  ��֧�ֵ�ǰ��Э�� 65363.19778: �����֧�� 2.0 �� 3.0
+2020-06-20 15:53:37.932 HKT [2060] ��־:  CreateProcess call failed: A blocking operation was interrupted by a call to WSACancelBlockingCall.
+	 (error code 1455)
+2020-06-20 15:53:37.942 HKT [2060] ��־:  �޷�����autovacuum��������: No error
+2020-06-20 15:54:10.252 HKT [5736] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.348 HKT [668] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.348 HKT [8884] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.355 HKT [6556] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.261 HKT [6116] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.352 HKT [7132] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.352 HKT [3808] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.348 HKT [7396] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.361 HKT [5068] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.358 HKT [1992] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.361 HKT [5944] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.361 HKT [4492] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.362 HKT [5104] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.451 HKT [4992] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.450 HKT [9172] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.548 HKT [5908] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.556 HKT [2776] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.549 HKT [3360] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.550 HKT [4016] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.548 HKT [8200] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.548 HKT [4168] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.553 HKT [5744] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.548 HKT [2180] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.552 HKT [8804] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.556 HKT [7780] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.555 HKT [2928] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.653 HKT [6168] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:54:10.848 HKT [6028] 日志:  无法从客户端获得数据: An existing connection was forcibly closed by the remote host.
+	
+2020-06-20 15:56:37.183 HKT [2060] ��־:  ���յ����� (fast) ֹͣ����
+2020-06-20 15:56:37.282 HKT [2060] ��־:  �ж��κμ�������
+2020-06-20 15:56:37.292 HKT [7836] 致命错误:  由于管理员命令中断联接
+2020-06-20 15:56:37.529 HKT [2060] ��־:  ��������: logical replication launcher (PID 1096) ���˳�, �˳����� 1
+2020-06-20 15:59:25.265 HKT [7364] ��������:  ���ݿ�ϵͳֹͣ��
+2020-06-20 15:59:27.893 HKT [5136] ��������:  ���ݿ�ϵͳֹͣ��
+2020-06-20 15:59:32.400 HKT [10856] ��������:  ���ݿ�ϵͳֹͣ��
+2020-06-20 15:59:37.817 HKT [6628] ��������:  ���ݿ�ϵͳֹͣ��
+2020-06-20 15:59:53.407 HKT [10140] ��������:  ���ݿ�ϵͳֹͣ��
+2020-06-20 16:00:27.665 HKT [7012] ��������:  ���ݿ�ϵͳֹͣ��
+2020-06-20 16:00:43.229 HKT [1776] ��������:  ���ݿ�ϵͳֹͣ��
+2020-06-20 16:00:49.721 HKT [9000] ��������:  ���ݿ�ϵͳֹͣ��
+2020-06-20 16:01:08.386 HKT [4440] ��������:  ���ݿ�ϵͳֹͣ��
+2020-06-20 16:01:50.122 HKT [10860] ��������:  ���ݿ�ϵͳֹͣ��
+2020-06-20 16:01:58.860 HKT [9812] ��������:  ���ݿ�ϵͳֹͣ��
+2020-06-20 16:02:35.690 HKT [10088] ��������:  ���ݿ�ϵͳֹͣ��
+2020-06-20 16:12:11.766 HKT [5736] ��������:  ���ݿ�ϵͳֹͣ��
